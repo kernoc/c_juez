@@ -37,12 +37,13 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'aplicaciones.despacho_judicial',
-    'aplicaciones.libro',
-    'aplicaciones.perfil_usuario',
-    'aplicaciones.persona',
-    'aplicaciones.titulo_judicial',
-    'aplicaciones.usuario_sistema',
+    'Profileuser',
+    'Book',
+    'Judicialoffice',
+    'Person',
+    'Judicialtitle',
+    'Systemuser',
+
 ]
 
 MIDDLEWARE = [
